@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Yongha Hwang, PhD"
 title_separator          : ""
-name                     : &name "Yongha Hwang, PhD"
+name                     : &name "Yongha Hwang"
 description              : &description "Geospatial Data Scientist"
 url                      : https://yonghah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
