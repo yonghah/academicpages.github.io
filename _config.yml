@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongha Hwang, PhD"
+title                    : "Yongha Hwang"
 title_separator          : ""
 name                     : &name "Yongha Hwang"
 description              : &description "Geospatial Data Scientist"
