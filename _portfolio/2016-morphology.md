@@ -1,6 +1,6 @@
 ---
 title: "Street Pattern Comparison across Citites"
-date: 2016-03-01
+date: 2016-03
 excerpt: "compare street patterns in the same scale<br><img src='https://cloud.githubusercontent.com/assets/3218468/26832154/9046b42c-4a9c-11e7-8bfb-e5327a04e760.png' width='500'>"
 collection: portfolio
 ---
