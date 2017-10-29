@@ -1,5 +1,6 @@
 ---
 title: "3D GIS for Indoor Spaces"
+date: 2015-01-01
 excerpt: "Rooms 3D-visualized with Mapbox GL JS<br/><img src='https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_campus.png' width='500'>"
 collection: portfolio
 ---
