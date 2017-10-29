@@ -1,5 +1,6 @@
 ---
 title: "GlayAn: a GIS toolbox for workplace layout analysis"
+date: 2015-01-01
 excerpt: "a comprehensive visualization and data management tool 
 that designers or analysts can use to evaluate workplace layout.
 <br>
