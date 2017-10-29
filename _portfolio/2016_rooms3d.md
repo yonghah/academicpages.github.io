@@ -1,10 +1,10 @@
 ---
 title: "3D GIS for Indoor Spaces"
-excerpt: "Indoor spaces are visualized with Mapbox GL JS<br/><img src='https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_campus.png' width='500'>"
+excerpt: "Rooms 3D-visualized with Mapbox GL JS<br/><img src='https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_campus.png' width='500'>"
 collection: portfolio
 ---
 
-Indoor spaces are visualized with Mapbox GL JS. Instead of extruding walls, rooms are extruded here. Rooms are colored by room functions such as office, lab, classroom, circulation, restroom and so on. You can isolate a floor by clicking the buttons in the floor control. 
+Indoor spaces visualized with Mapbox GL JS. Instead of extruding walls, rooms are extruded here. Rooms are colored by room functions such as office, lab, classroom, circulation, restroom and so on. You can isolate a floor by clicking the buttons in the floor control. 
 
 
 See the demo:
