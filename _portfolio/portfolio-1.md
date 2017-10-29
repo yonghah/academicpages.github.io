@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: 3D GIS for Indoor Spaces"
+excerpt: "Indoor spaces are visualized with Mapbox GL JS<br/><img src='https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_campus.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Indoor spaces are visualized with Mapbox GL JS. Instead of extruding walls, rooms are extruded here. Rooms are colored by room functions such as office, lab, classroom, circulation, restroom and so on. You can isolate a floor by clicking the buttons in the floor control. 
+
+
+See the demo:
+[http://www-personal.umich.edu/~yonghah/rooms3d/](http://www-personal.umich.edu/~yonghah/rooms3d/)
+
+<div>
+	<img width='600' src="https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_window.png"/>
+</div>
+
+
+<div>
+	<img width='600' src="https://github.com/yonghah/yonghah2.github.io/raw/master/assets/img/projects/room3d_campus.png"/>
+</div>
+
+3D scene implemented with Mapbox-gl.js. See [here](https://www.mapbox.com/mapbox-gl-js/style-spec/#layers-fill-extrusion) for details. 
