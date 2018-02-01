@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yongha Hwang, a geospatial data scientist at the Space Information and Planning, University of Michigan Medical School. I am leading a development team for MGIS which is a geospatial information system for indoor spaces at the University of Michigan. The system visualizes campus facilities at the room level using GIS system combined with Administrative datasets.
+I am Yongha Hwang, a full-stack GIS developer working at the Space Information and Planning, University of Michigan Medical School. I am leading a development team for MGIS which is a web application for visualizing indoor spaces at the University of Michigan. The system visualizes campus facilities at the room level using GIS system with administrative datasets.
 
-My research interest during the PhD was to quantitatively analyze the effect of workspace's layout on collaboration behavior. While working on that, I realized that tools for quantitative analysis are scarce in this field despite recent dazzling advances in data sciences in other fields. My current interest is to help the inquiry of architecture with such advances in data sciences. MGIS is one of the results in this vein. It is my exploration on how to visualize floor plans and how to convert CAD drawings to a better data format to be analyzed.
+I also consider myself as a geospatial data scientist. My research topic during my PhD was to quantitatively analyze the effect of workspace’s layout on collaboration behavior. While working on that, I realized that tools for quantitative analysis are scarce in this field despite recent dazzling advances in data sciences in other fields. 
 
-Currently I am also interested in utilizing state-of-the-art data science techniques on urban informatics. 
+My current interest is to help the inquiry of architecture and urban design by introducing such advances in data sciences, machine learning, and deep learning to this field.
+
